@@ -149,7 +149,6 @@ class GameViewModel(private val application: Application, private val level: Lev
             countOfRightAnswers,
             countOfQuestions,
             gameSettings
-
         )
     }
 
