@@ -6,7 +6,6 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
-import com.bydlopz.numbercompositiongame.R
 import com.bydlopz.numbercompositiongame.databinding.FragmentChooseLevelBinding
 import com.bydlopz.numbercompositiongame.domain.entity.Level
 

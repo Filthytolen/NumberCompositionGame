@@ -1,7 +1,7 @@
 package com.bydlopz.numbercompositiongame.presentation
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.bydlopz.numbercompositiongame.R
 
 class MainActivity : AppCompatActivity() {
